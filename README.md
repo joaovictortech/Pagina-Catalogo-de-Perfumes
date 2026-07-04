@@ -103,4 +103,5 @@ menu hambúrguer abaixo de `lg`.
 
 ## 📄 Licença
 
-Uso restrito à revendedora proprietária deste projeto.
+Uso restrito ao proprietário deste projeto.
+Criado por João victor G. da Silva
